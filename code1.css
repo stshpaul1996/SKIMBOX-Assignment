@@ -25,14 +25,14 @@
     font-weight: 200;
 }
 
-@media (min-height:768px) {
+@media (min-width:768px) {
     .horizontal-line {
         width: 250px;
     }
 
 }
 
-@media (min-height:998px) {
+@media (min-width:998px) {
     .horizontal-line {
         width: 350px;
     }
@@ -42,9 +42,9 @@
     }
 }
 
-@media (min-height:1200px) {
+@media (min-width:1200px) {
     .horizontal-line {
-        width: 550px;
+        width: 5000px;
     }
 }
 
